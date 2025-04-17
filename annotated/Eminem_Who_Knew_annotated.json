@@ -1,0 +1,930 @@
+{
+  "filename": "Eminem_Who_Knew.txt",
+  "lyrics": [
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "mic check one-two",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "onetwo",
+          "position": 3,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "who woulda knew?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "knew",
+          "position": 3,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "who'da known?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "known",
+          "position": 2,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "fuck would've thought",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "thought",
+          "position": 3,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "motherfucker comes out",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 3,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "and sells a couple of million records",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "records",
+          "position": 7,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "and these motherfuckers hit the ceiling",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "ceiling",
+          "position": 6,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "i don't do black music, i don't do white music",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "music",
+          "position": 10,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "i make fight music, for high school kids",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "kids",
+          "position": 8,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "i put lives at risk when i drive like this",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "this",
+          "position": 10,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "i put wives at risk with a knife like this (ahhh!!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ahhh",
+          "position": 11,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "shit, you probably think i'm in your tape deck now",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "now",
+          "position": 10,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "i'm in the back seat of your truck, with duct tape stretched out",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 13,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "ducked the fuck way down, waitin to straight jump out",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 10,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "put it over your mouth, and grab you by the face, what now?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "now",
+          "position": 13,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "oh - you want me to watch my mouth, how?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "how",
+          "position": 9,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "take my fuckin eyeballs out, and turn em around?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "around",
+          "position": 9,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "look - i'll burn your fuckin house down, circle around",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "around",
+          "position": 9,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "and hit the hydrant, so you can't put your burning furniture out",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 12,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "(oh my god! oh my god!) i'm sorry, there must be a mix-up",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "mixup",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you want me to fix up lyrics while the president gets his dick sucked?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "sucked",
+          "position": 14,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck that, take drugs, rape sluts",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "sluts",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "make fun of gay clubs, men who wear make-up",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "makeup",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "get aware, wake up, get a sense of humor",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "humor",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "quit tryin to censor music, this is for your kid's amusement",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "amusement",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(the kids!) but don't blame me when lil' eric jumps off of the terrace",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "terrace",
+          "position": 14,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you shoulda been watchin him - apparently you ain't parents",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "parents",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "cause i never knew i, knew i would get this big",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "big",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i, knew i'd effect this kid",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "kid",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i'd, get him to slit his wrist",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "wrist",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i'd, get him to hit this bitch",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "bitch",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i, knew i would get this big",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "big",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i, knew i'd effect this kid",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "kid",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i'd, get him to slit his wrist",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "wrist",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i'd, get him to hit this bitch",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "bitch",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so who's bringin the guns in this country? (hmm?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "hmm",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i couldn't sneak a plastic pellet gun through customs over in london",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "london",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and last week, i seen a schwarzaneggar movie",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "movie",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "where he's shootin all sorts of these motherfuckers with a uzi",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "uzi",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i sees three little kids, up in the front row,",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "row",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "screamin \"go,\" with their 17-year-old uncle",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "uncle",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm like, \"guidance - ain't they got the same moms and dads",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "dads",
+          "position": 11,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "who got mad when i asked if they liked violence?\"",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "violence",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and told me that my tape taught 'em to swear",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "swear",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "what about the make-up you allow your 12-year-old daughter to wear?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "wear",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(hmm?) so tell me that your son doesn't know any cuss words",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "words",
+          "position": 12,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "when his bus driver's screamin at him, fuckin him up worse",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "worse",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(\"go sit the fuck down, you little fuckin prick!\")",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "prick",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and fuck was the first word i ever learned",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "learned",
+          "position": 9,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "up in the third grade, flippin the gym teacher the bird (look!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "look",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so read up, about how i used to get beat up",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "peed on, be on free lunch, and change school every 3 months",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "months",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "my life's like kinda what my wife's like (what?)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "what",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fucked up after i beat her fuckin ass every night, ike",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "ike",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so how much easier would life be",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "be",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if 19 million motherfuckers grew to be just like me?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i never knew i.. knew i'd..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "id",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "have a new house or a new car",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "car",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "a couple years ago i was more poorer than you are",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "are",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i don't got that bad of a mouth, do i?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 10,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "fuck shit ass bitch cunt, shooby-de-doo-wop (what?)",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "what",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "skibbedy-be-bop, a-christopher reeves",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "reeves",
+          "position": 3,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "sonny bono, skis horses and hittin some trees (hey!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "hey",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "how many retards'll listen to me",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and run up in the school shootin when they're pissed at a",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "a",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "teach-er, her, him, is it you is it them?",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "them",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "\"wasn't me, slim shady said to do it again!\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "again",
+          "position": 9,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "damn! how much damage can you do with a pen?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "pen",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "man i'm just as fucked up as you woulda been",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "been",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if you woulda been, in my shoes, who woulda thought",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "thought",
+          "position": 10,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "slim shady would be somethin that you woulda bought",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bought",
+          "position": 9,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "that woulda made you get a gun and shoot at a cop",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cop",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i just said it - i ain't know if you'd do it or not",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "not",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "how the fuck was i supposed to know?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "know",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    }
+  ]
+}

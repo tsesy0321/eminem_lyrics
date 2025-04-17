@@ -1,0 +1,1239 @@
+{
+  "filename": "Eminem_The_Kids.txt",
+  "lyrics": [
+    {
+      "text": "and everyone should get along..",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "along",
+          "position": 5,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "okay children quiet down, quiet down",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "down",
+          "position": 6,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "children i'd like to introduce our new substitute teacher for the day",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "day",
+          "position": 12,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "his name is mr. shady",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shady",
+          "position": 5,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "children quiet down please",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "please",
+          "position": 4,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "brian don't throw that (shut up!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 6,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "mr. shady will be your new substitute",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "substitute",
+          "position": 7,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "while mr. kaniff is out with pneumonia (he's got aids!)",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "aids",
+          "position": 10,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "good luck mr. shady",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shady",
+          "position": 4,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "hi there little boys and girls (fuck you!)",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 8,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "today we're gonna to learn how to poison squirrels",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "squirrels",
+          "position": 9,
+          "group": "K"
+        }
+      ]
+    },
+    {
+      "text": "but first, i'd like you to meet my friend bob (huh?)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "huh",
+          "position": 11,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "say hi bob! (\"hi bob\") bob's 30 and still lives with his mom",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "mom",
+          "position": 13,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "and he don't got a job, cause bob sits at home and smokes pot",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "pot",
+          "position": 14,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "but his twelve-year old brother looks up to him an awful lot",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "lot",
+          "position": 12,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "and bob likes to hang out at the local waffle spot",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "spot",
+          "position": 11,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "and wait in the parkin lot for waitresses off the clock",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "clock",
+          "position": 11,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "when it's late and the lot gets dark and fake like he walks his dog",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "dog",
+          "position": 15,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "drag 'em in the woods and go straight to the chopping blocks (ahh!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ahh",
+          "position": 13,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "and even if they escaped and they got the cops",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "cops",
+          "position": 10,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "the ladies would all be so afraid, they would drop the charge",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "charge",
+          "position": 12,
+          "group": "U"
+        }
+      ]
+    },
+    {
+      "text": "'til one night mrs. stacey went off the job",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "job",
+          "position": 9,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "when she felt someone grab her whole face and said not to talk",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "talk",
+          "position": 13,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "but stacey knew it was bob and said knock it off",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "off",
+          "position": 11,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "but bob wouldn't knock it off cause he's crazy and off his rocker",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "rocker",
+          "position": 13,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "crazier than slim shady is off the vodka",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "vodka",
+          "position": 8,
+          "group": "Y"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "you couldn't even take him to dre's to get bob a \"dr.\"",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "dr",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "he grabbed stace' by the legs as chopped it off her",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "her",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and dropped her off in the lake for the cops to find her",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "her",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but ever since the day stacey went off to wander",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "wander",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "they never found her, and bob still hangs at the waffle diner",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "diner",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and that's the story of bob and his marijuana,",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "marijuana",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and what it might do to you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 7,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "so see if the squirrels want any - it's bad for you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 11,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "see children, drugs are bahhhd (c'mon)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cmon",
+          "position": 6,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe me, ask ya dahhhd (ask him man)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "man",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe him, ask ya mom (that's right)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "she'll tell you how she does 'em all the time (she will)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "will",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so kids say no to drugs (that's right)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so you don't act like everyone else does (uh-huh)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "uhhuh",
+          "position": 9,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "then there's really nothin else to say (sing along)",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "along",
+          "position": 9,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "drugs are just bad, mmm'kay?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "mmmkay",
+          "position": 5,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "my penis is the size of a peanut, have you seen it?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck no you ain't seen it, it's the size of a peanut (huh?)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "huh",
+          "position": 13,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "speakin of peanuts, you know what else is bad for squirrels?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "squirrels",
+          "position": 11,
+          "group": "K"
+        }
+      ]
+    },
+    {
+      "text": "ecstasy is the worst drug in the world",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "world",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if someone ever offers it to you, don't do it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "kids two hits'll probably drain all your spinal fluid",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "fluid",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and spinal fluid is final, you won't get it back",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "back",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so don't get attached, it'll attack every bone in your back",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "back",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "meet zach, twenty-one years old",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "old",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "after hangin out with some friends at a frat party, he gets bold",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bold",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and decides to try five, when he's bribed by five guys",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "guys",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and peer pressure will win every time you try to fight it",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "suddenly, he starts to convulse and his pulse goes into hyperdrive",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "hyperdrive",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and his eyes roll back in his skull",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "skull",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "his back starts tah - look like the mcdonald's arches",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "arches",
+          "position": 9,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "mcdonald's",
+          "description": "Fast-food chain known for its golden arches"
+        }
+      ]
+    },
+    {
+      "text": "he's on donald's carpet, layin horizontal barfin",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "barfin",
+          "position": 7,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "and everyone in the apartment starts laughin at him",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "him",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "\"hey adam, zach is a jackass, look at him!\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "him",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "cause they took it too, so they think it's funny",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "funny",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so they're laughing at basically nothing except maybe wasting his money",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "money",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "meanwhile, zach's in a coma, the action is over",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "over",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and his back and his shoulders hunched up like he's practicin yoga",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "yoga",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and that's the story of zach, the ecstasy maniac",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "maniac",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so don't even feed that to squirrels class, cause it's bad for you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 13,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "see children, drugs are bahhhd (that's right)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe me, ask ya dahhhd (that's right)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe him, ask ya mom (you can)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "can",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "she'll tell you how she does 'em all the time (she will)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "will",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so kids say no to drugs (smoke crack)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "crack",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so you don't act like everyone else does (that's right)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and there's really nothin else to say (but umm)",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "umm",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "drugs are just bad, mmm'kay?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "mmmkay",
+          "position": 5,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "and last but not least, one of the most humungous",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "humungous",
+          "position": 10,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "problems among young people today, is fungus",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "fungus",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "it grows from cow manure, they pick it out, wipe it off,",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "off",
+          "position": 12,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "bag it up, and you put it right in your mouth and chew it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 14,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "yum yum! then you start to see some dumb stuff",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "stuff",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and everything slows down when you eat some of 'em..",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "em",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and sometimes you see things that aren't there (like what?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "what",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "like fat woman in g-strings with orange hair",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "hair",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(mr. shady what's a g-string?) it's yarn claire",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "claire",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "women stick 'em up their behinds, go out and wear 'em (huh?)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "huh",
+          "position": 12,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "and if you swallow too much of the magic mushrooms",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "mushrooms",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "whoops, did i say magic mushrooms? i meant fungus",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "fungus",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "ya tongue gets, all swoll up like a cow's tongue (how come?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "come",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "cause it comes from a cow's dung (gross!!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "gross",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "see drugs are bad, it's a common fact",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "fact",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but your mom and dad, know that's all that i'm good at (oh!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "oh",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but don't be me, cause if you grow up and you go and o.d.",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "od",
+          "position": 14,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "they're gonna come for me and i'ma have to grow a goatee",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "goatee",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and get a disguise and hide, cause it'll be my fault",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "fault",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so don't do drugs, and do exactly as i don't,",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "dont",
+          "position": 10,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "cause i'm bad for you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 5,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "see children, drugs are bahhhd (uh-huh)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "uhhuh",
+          "position": 6,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe me, ask ya dahhhd (put that down)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "down",
+          "position": 12,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "and if you don't believe him, ask ya mom (you can ask)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ask",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "she'll tell you how she does 'em all the time (and she will)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "will",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so kids say no to drugs (say no)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "no",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so you don't act like everyone else does (like i do)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "do",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and there's really nothin else to say (that's right)",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "right",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "drugs are just bad, mmm'kay?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "mmmkay",
+          "position": 5,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "come on children, clap along (shut up!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 7,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "sing along children (suck my motherfuckin dick!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "dick",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "drugs are just bad, drugs are just bad (south park is gonna sue me!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 14,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "south park",
+          "description": "Animated TV show known for satire"
+        }
+      ]
+    },
+    {
+      "text": "so don't do drugs (suck my motherfuckin penis!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "penis",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so there'll be more for me (hippie! god damnit!)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "damnit",
+          "position": 9,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "(mushrooms killed kenny!  ewww, ahhh!)",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "ahhh",
+          "position": 5,
+          "group": ""
+        }
+      ],
+      "references": [
+        {
+          "text": "kenny",
+          "description": "Character from South Park who often dies"
+        }
+      ]
+    },
+    {
+      "text": "(so, fucked up, right now..)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "now",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    }
+  ]
+}

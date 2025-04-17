@@ -1,0 +1,809 @@
+{
+  "filename": "Eminem_Remember_Me.txt",
+  "lyrics": [
+    {
+      "text": "remember me? (\"step in, execution\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "execution",
+          "position": 5,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i have no remorse\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "remorse",
+          "position": 6,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i'm 'high powered'\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "powered",
+          "position": 5,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i drop bombs like hiroshima\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "hiroshima",
+          "position": 7,
+          "group": "D"
+        }
+      ],
+      "references": [
+        {
+          "text": "hiroshima",
+          "description": "Reference to the atomic bombing, symbolizing destruction"
+        }
+      ]
+    },
+    {
+      "text": "for this one it's the x, you retarded?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "retarded",
+          "position": 8,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "cause i grab the mic and get down, like syndrome",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "syndrome",
+          "position": 10,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "hide and roam into the masses, without boundaries",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "boundaries",
+          "position": 8,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "which qualifies me for the term \"universal\"",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "universal",
+          "position": 7,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "without no rehearsal, i leak words that's controversial",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "controversial",
+          "position": 8,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "like i'm not, the one you wanna contest, see",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "see",
+          "position": 9,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "cause i'll hit yo' ass like the train did that bitch",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "bitch",
+          "position": 11,
+          "group": "K"
+        }
+      ]
+    },
+    {
+      "text": "that got \"banned from tv\" - heavyweight hitter",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "hitter",
+          "position": 7,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "hit you watch your whole head split up",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 8,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "loco-is-the-motion, we comin through",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "through",
+          "position": 4,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "hollow tips is the lead, the .45 threw",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "threw",
+          "position": 8,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"throw ya gunz in the air!\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "air",
+          "position": 8,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"slam! slam!\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "slam",
+          "position": 4,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"nigga 'bacdafucup'\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "bacdafucup",
+          "position": 4,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"chka-chka-onyx!\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "chkachkaonyx",
+          "position": 3,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "niggaz that take no for an answer, get told no",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "no",
+          "position": 10,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "yeah i been told no but it was more like, \"no, no, no!!!\"",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "no",
+          "position": 13,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "life a bitch that'll fuck you if you let her",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "her",
+          "position": 10,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "better come better than better to be a competitor",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "competitor",
+          "position": 9,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "this vet is ahead of",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "of",
+          "position": 5,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "the shit is all redder, you deader and deader",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "deader",
+          "position": 9,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "a medic instead-a the cheddars and credda",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "credda",
+          "position": 7,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "settle vendetta one metal beretta from ghetto to ghetto",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "ghetto",
+          "position": 9,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "evidence? nope! never leave a shred-of",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shredof",
+          "position": 6,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i got the soul of every rapper in me, love me or hate me",
+      "sentiment": "Love",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 14,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "my moms got raped by the industry and made me",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "i'm the illest nigga ever, i told you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 8,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "i get more pussy than them dyke bitches total",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "total",
+          "position": 9,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "want beef, nigga? pbbt! you better dead that shit",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "shit",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "my name should be \"can't-believe-that-nigga-said-that-shit\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cantbelievethatniggasaidthatshit",
+          "position": 5,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "probably sayin, \"he ain't a killer\", but i'm killin myself",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "myself",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "smoke death, fuck bitches raw, on the kitchen floor",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "floor",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so think what i'ma do to you, have done to you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 11,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "got niggaz in my hood who'd do that shit for a blunt or two",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "two",
+          "position": 14,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "what you wanna do, cocksuckers? we glock busters",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "busters",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'til the cops cuff us, we'll start ruckus and drop blockbusters",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "blockbusters",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'round the clock hustlers, you cannot touch us",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "us",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm gettin wires niggaz wantin me dead, wantin my head",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "head",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you think it could be somethin i said?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "said",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i just don't give a fuck!\")",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "fuck",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"yeah, fuck you too!\")",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "too",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i'm low down and i'm shifty!\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shifty",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "remember me? (\"i'm shady!\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shady",
+          "position": 4,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "when i go out, i'ma go out shootin",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shootin",
+          "position": 8,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i don't mean when i die, i mean when i go out to the club, stupid",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "stupid",
+          "position": 16,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm tryin to clear up my fuckin' image",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "image",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so i promised the fuckin critics",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "critics",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i wouldn't say \"fuckin\" for six minutes",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "minutes",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "( six minutes, slim shady, you're on)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "on",
+          "position": 6,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "my baby's mom, bitch made me an angry blonde",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "blonde",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so i made me a song, killed her and put hailie on",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "on",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i may be wrong, i keep thinkin these crazy thoughts",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "thoughts",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in my cranium, but i'm stuck with a crazy mom",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "mom",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(\"is she really on as much dope as you say she's on?\")",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "on",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "came home, and somebody musta broke in the back window",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "window",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and stole two loaded machine guns and both of my trenchcoats",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "trenchcoats",
+          "position": 11,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "sick sick dreams of picnic scenes, two kids, sixteen",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "sixteen",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "with m-16's and ten clips each",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "each",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and them shits reach through six kids each",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "each",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and slim gets blamed in bill clint's speech to fix these streets?",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "streets",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck that! pbbt! you faggots can vanish to volcanic ash",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "ash",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and re-appear in hell with a can of gas, and a match",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "match",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "aftermath, dre, grab the gat, show 'em where it's at",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "at",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "(what the fuck you starin at, nigga?)",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "nigga",
+          "position": 7,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "don't you remember me?!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 4,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "remember me?!!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 2,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "remember me??!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 2,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "remember me!!!!",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 2,
+          "group": "Y"
+        }
+      ]
+    }
+  ]
+}

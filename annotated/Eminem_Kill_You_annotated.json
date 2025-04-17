@@ -1,0 +1,1226 @@
+{
+  "filename": "Eminem_Kill_You.txt",
+  "lyrics": [
+    {
+      "text": "when i was just a little baby boy,",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "boy",
+          "position": 8,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "my momma used to tell me these crazy things",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "things",
+          "position": 9,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "she used to tell me my daddy was an evil man,",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "man",
+          "position": 11,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "she used to tell me he hated me",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 8,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "but then i got a little bit older",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "older",
+          "position": 8,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "and i realized, she was the crazy one",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "one",
+          "position": 8,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "but there was nothing i could do or say to try to change it",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 14,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "'cause that's just the way she was",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "was",
+          "position": 7,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "they said i can't rap about being broke no more",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "more",
+          "position": 10,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "they ain't say i can't rap about coke no more",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "more",
+          "position": 10,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "slut, you think i won't choke no whore",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "whore",
+          "position": 8,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "'til the vocal cords don't work in her throat no more?!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "more",
+          "position": 11,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "these motherfuckers are thinking i'm playing",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "playing",
+          "position": 6,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "thinking i'm saying the shit 'cause i'm thinking it just to be saying it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 14,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "put your hands down bitch, i ain't gon' shoot you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 10,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "i'mma pull you to this bullet, and put it through you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 11,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "shut up slut, you're causing too much chaos",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "chaos",
+          "position": 8,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "just bend over and take it like a slut, ok ma?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "ma",
+          "position": 11,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "\"oh, now he's raping his own mother,",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "mother",
+          "position": 7,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "abusing a whore, snorting coke, and we gave him the rolling stone cover?\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cover",
+          "position": 13,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "you're goddamn right bitch, and now it's too late",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "late",
+          "position": 9,
+          "group": "U"
+        }
+      ]
+    },
+    {
+      "text": "i'm triple platinum and tragedies happen in two states",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "states",
+          "position": 9,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "i invented violence, you vile venomous volatile bitches",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bitches",
+          "position": 8,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "vain vicodin, vrinn vrinn, vrinnn!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "vrinnn",
+          "position": 5,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "texas chainsaw, left his brains all",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "all",
+          "position": 6,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "dangling from his neck, while his head barely hangs on",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "on",
+          "position": 10,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "blood, guts, guns, cuts",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cuts",
+          "position": 4,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "knives, lives, wives, nuns, sluts",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "sluts",
+          "position": 5,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you! you don't wanna fuck with me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "girls neither \u2013 you ain't nothing but a slut to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 11,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you! you ain't got the balls to beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "we ain't gon' never stop beefing i don't squash the beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you better kill me! i'mma be another rapper dead",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "dead",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "for popping off at the mouth with shit i shouldn't have said",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "said",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but when they kill me \u2013 i'm bringing the world with me",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 12,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "bitches too! you ain't nothing but a girl to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "i said you don't wanna fuck with shady ('cause why?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "why",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i said you don't wanna fuck with shady (why?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "why",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 4,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "like a murder weapon, i'mma conceal you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in a closet with mildew, sheets, pillows and film you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck with me, i been through hell, shut the hell up!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm tryna develop these pictures of the devil to sell 'em",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "em",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i ain't \"acid rap\", but i rap on acid",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "acid",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "got a new blow-up doll and just had a strap-on added",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "added",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "whoops! is that a subliminal hint? no!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "no",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "just criminal intent to sodomize women again",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "again",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "eminem offend? no! eminem'll insult",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "insult",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and if you ever give in to him, you give him an impulse",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "impulse",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "to do it again, then, if he does it again",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "again",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you'll probably end up jumping out of something up on the 10th",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "10th",
+          "position": 12,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you, i ain't done this ain't the chorus",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "chorus",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i ain't even drug you in the woods yet to paint the forest",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "forest",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "a bloodstain is orange after you wash it three or four times in a tub",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "tub",
+          "position": 15,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but that's normal ain't it norman?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "norman",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "serial killer hiding murder material",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "material",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in a cereal box on top of your stereo",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "stereo",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "here we go again, we're out of our medicine",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "medicine",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "out of our minds, and we want in yours, let us in",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "in",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "or i'mma kill you! you don't wanna fuck with me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "girls neither \u2013 you ain't nothing but a slut to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you! you ain't got the balls to beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "we ain't gon' never stop beefing i don't squash the beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you better kill me! i'mma be another rapper dead",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "dead",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "for popping off at the mouth with shit i shouldn't have said",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "said",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but when they kill me i'm bringing the world with me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitches too! you ain't nothing but a girl to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i said you don't wanna fuck with shady ('cause why?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "why",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i said you don't wanna fuck with shady (why?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "why",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "eh-heh, know why i say these things?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "things",
+          "position": 7,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "'cause ladies' screams keep creeping in shady's dreams",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "dreams",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and the way things seem, i shouldn't have to pay these shrinks",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shrinks",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "this eighty gs a week to say the same things tweece!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "tweece",
+          "position": 11,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "twice? whatever, i hate these things",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "things",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck shots! i hope the weed'll outweigh these drinks",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "drinks",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "motherfuckers want me to come on their radio shows",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "shows",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "just to argue with 'em cause their ratings stink?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "stink",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "fuck that! i'll choke radio announcer to bouncer",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "bouncer",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "from fat bitch to all seventy-thousand pounds of her",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "her",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "from principal to the student body and counselor",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "counselor",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "from in-school to before school to out of school",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "school",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i don't even believe in breathing",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "breathing",
+          "position": 6,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "i'm leaving air in your lungs",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "lungs",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "just to hear you keep screaming for me to seep it",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 11,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "ok, i'm ready to go play",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "play",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i got the machete from o.j.",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "oj",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm ready to make everyone's throats ache",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "ache",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you faggots keep egging me on",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "on",
+          "position": 6,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "'til i have you at knifepoint, then you beg me to stop?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "stop",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "shut up! give me your hands and feet",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "feet",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i said shut up when i'm talking to you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you hear me? answer me!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "or i'mma kill you! you don't wanna fuck with me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "girls neither \u2013 you ain't nothing but a slut to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you! you don't got the balls to beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "we ain't gon' never stop beefing i don't squash the beef",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "beef",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you better kill me! i'mma be another rapper dead",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "dead",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "for popping off at the mouth with shit i shouldn't have said",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "said",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but when they kill me \u2013 i'm bringing the world with me",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitches too! you ain't nothing but a girl to me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "bitch i'mma kill you!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 4,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you don't wanna fuck with shady ('cause why?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "why",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i said you don't wanna fuck with shady (why not?)",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "not",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause shady will fucking kill you..",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm just playing, ladies",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ladies",
+          "position": 4,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you know i love you",
+      "sentiment": "Love",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    }
+  ]
+}

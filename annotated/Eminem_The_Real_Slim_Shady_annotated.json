@@ -1,0 +1,983 @@
+{
+  "filename": "Eminem_The_Real_Slim_Shady.txt",
+  "lyrics": [
+    {
+      "text": "may i have your attention please?",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "please",
+          "position": 6,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "may i have your attention please?",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "please",
+          "position": 6,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "will the real slim shady please stand up?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 8,
+          "group": "C"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "i repeat, will the real slim shady please stand up?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 10,
+          "group": "C"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "we're gonna have a problem here..",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "here",
+          "position": 6,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "y'all act like you never seen a white person before",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "before",
+          "position": 10,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "jaws all on the floor like pam and tommy just burst in the door",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "door",
+          "position": 14,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "and started whooping her ass worse than before",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "before",
+          "position": 8,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "they first were divorced, throwing her over furniture (ah!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ah",
+          "position": 9,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "it's the return of the... \"ah, wait, no way, you're kidding,",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "kidding",
+          "position": 11,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "he didn't just say what i think he did, did he?\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "he",
+          "position": 11,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "and dr. dre said... nothing, you idiots!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "idiots",
+          "position": 7,
+          "group": "L"
+        }
+      ],
+      "references": [
+        {
+          "text": "dr. dre",
+          "description": "Eminem's producer and collaborator"
+        }
+      ]
+    },
+    {
+      "text": "dr. dre's dead, he's locked in my basement! (ha-ha!)",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "haha",
+          "position": 9,
+          "group": ""
+        }
+      ],
+      "references": [
+        {
+          "text": "dr. dre",
+          "description": "Eminem's producer and collaborator"
+        }
+      ]
+    },
+    {
+      "text": "feminist women love eminem",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "eminem",
+          "position": 4,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "\"slim shady, i'm sick of him",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "him",
+          "position": 6,
+          "group": "M"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "look at him, walking around grabbing his you-know-what",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "youknowwhat",
+          "position": 8,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "flipping the you-know-who.\" \"yeah, but he's so cute though!\"",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "though",
+          "position": 9,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "yeah, i probably got a couple of screws up in my head loose",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "loose",
+          "position": 13,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "but no worse, than what's going on in your parents' bedrooms",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "bedrooms",
+          "position": 11,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "sometimes, i wanna get on tv and just let loose, but can't",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cant",
+          "position": 12,
+          "group": "R"
+        }
+      ]
+    },
+    {
+      "text": "but it's cool for tom green to hump a dead moose",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "moose",
+          "position": 11,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "\"my bum is on your lips, my bum is on your lips\"",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "lips",
+          "position": 12,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "and if i'm lucky, you might just give it a little kiss",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "kiss",
+          "position": 12,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "and that's the message that we deliver to little kids",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "kids",
+          "position": 10,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "and expect them not to know what a woman's clitoris is",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "is",
+          "position": 11,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "of course they gonna know what intercourse is",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "is",
+          "position": 8,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "by the time they hit fourth grade",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "grade",
+          "position": 7,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "they got the discovery channel, don't they?",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "they",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "\"we ain't nothing but mammals..\" well, some of us cannibals",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cannibals",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "who cut other people open like cantaloupes",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "cantaloupes",
+          "position": 7,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "but if we can hump dead animals and antelopes",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "antelopes",
+          "position": 9,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "then there's no reason that a man and another man can't elope",
+      "sentiment": "Love",
+      "rhymes": [
+        {
+          "word": "elope",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but if you feel like i feel, i got the antidote",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "antidote",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "women wave your pantyhose, sing the chorus and it goes",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "goes",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause i'm slim shady, yes i'm the real shady",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shady",
+          "position": 9,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "all you other slim shadys are just imitating",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "imitating",
+          "position": 8,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "so won't the real slim shady please stand up,",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 9,
+          "group": "C"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "please stand up, please stand up?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 6,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "will smith don't gotta cuss in his raps to sell records;",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "records",
+          "position": 11,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "well i do, so fuck him and fuck you too!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "too",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you think i give a damn about a grammy?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "grammy",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "half of you critics can't even stomach me, let alone stand me",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "\"but slim, what if you win, wouldn't it be weird?\"",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "weird",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "why? so you guys could just lie to get me here?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "here",
+          "position": 11,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "so you can, sit me here next to britney spears?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "spears",
+          "position": 10,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "britney spears",
+          "description": "Pop singer, often referenced in pop culture"
+        }
+      ]
+    },
+    {
+      "text": "yo shit, christina aguilera better switch me chairs",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "chairs",
+          "position": 8,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "christina aguilera",
+          "description": "Pop singer, contemporary of Eminem"
+        }
+      ]
+    },
+    {
+      "text": "so i can sit next to carson daly and fred durst",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "durst",
+          "position": 11,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "carson daly",
+          "description": "TV host, associated with MTV"
+        },
+        {
+          "text": "fred durst",
+          "description": "Limp Bizkit frontman, part of 2000s music scene"
+        }
+      ]
+    },
+    {
+      "text": "and hear 'em argue over who she gave head to first",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "first",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "little bitch, put me on blast on mtv",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "mtv",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "\"yeah, he's cute, but i think he's married to kim, hee-hee!\"",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "heehee",
+          "position": 11,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i should download her audio on mp3",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "mp3",
+          "position": 7,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "and show the whole world how you gave eminem vd",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "vd",
+          "position": 10,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i'm sick of you little girl and boy groups, all you do is annoy me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 15,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "so i have been sent here to destroy you",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and there's a million of us just like me",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "who cuss like me; who just don't give a fuck like me",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "who dress like me; walk, talk and act like me",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "it just might be the next best thing but not quite me!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm like a head trip to listen to, cause i'm only giving you",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "things you joke about with your friends inside your living room",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "room",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "the only difference is i got the balls to say it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in front of y'all and i don't gotta be false or sugarcoated at all",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "all",
+          "position": 14,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i just get on the mic and spit it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and whether you like to admit it  i just shit it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "better than ninety percent of you rappers out can",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "can",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "then you wonder how can kids eat up these albums like valiums",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "valiums",
+          "position": 12,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "it's funny; 'cause at the rate i'm going when i'm thirty",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "thirty",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'll be the only person in the nursing home flirting",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "flirting",
+          "position": 10,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "pinching nurses asses when i'm jacking off with jergens",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "jergens",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and i'm jerking but this whole bag of viagra isn't working",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "working",
+          "position": 11,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "and every single person is a slim shady lurking",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "lurking",
+          "position": 9,
+          "group": "J"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "he could be working at burger king, spitting on your onion rings",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "rings",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "or in the parking lot, circling",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "circling",
+          "position": 6,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "screaming \"i don't give a fuck!\"",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "fuck",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "with his windows down and his system up",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 8,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "so, will the real shady please stand up?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 8,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "and put one of those fingers on each hand up?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 10,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "and be proud to be outta your mind and outta control",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "control",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and one more time, loud as you can, how does it go?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "go",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "ha ha",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "ha",
+          "position": 2,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "guess there's a slim shady in all of us",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "us",
+          "position": 9,
+          "group": "Z"
+        }
+      ],
+      "references": [
+        {
+          "text": "slim shady",
+          "description": "Eminem's alter ego"
+        }
+      ]
+    },
+    {
+      "text": "fuck it, let's all stand up",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 6,
+          "group": "C"
+        }
+      ]
+    }
+  ]
+}
