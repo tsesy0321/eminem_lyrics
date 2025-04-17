@@ -1,0 +1,1061 @@
+{
+  "filename": "Eminem_The_Way_I_am.txt",
+  "lyrics": [
+    {
+      "text": "whatever...",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "whatever",
+          "position": 1,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "dre, just let it run",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "run",
+          "position": 5,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "aiyyo turn the beat up a little bit",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bit",
+          "position": 8,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "aiyyo... this song is for anyone... fuck it",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 8,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "just shut up and listen, aiyyo...",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "aiyyo",
+          "position": 6,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i sit back with this pack of zig zags and this bag",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bag",
+          "position": 12,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "of this weed it gives me the shit needed to be",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "be",
+          "position": 11,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "the most meanest mc on this - on this earth",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "earth",
+          "position": 9,
+          "group": "G"
+        }
+      ]
+    },
+    {
+      "text": "and since birth i've been cursed with this curse to just curse",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "curse",
+          "position": 12,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "and just blurt this berserk and bizarre shit that works",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "works",
+          "position": 10,
+          "group": "H"
+        }
+      ]
+    },
+    {
+      "text": "and it sells and it helps in itself to relieve",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "relieve",
+          "position": 10,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "all this tension dispensing these sentences",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "sentences",
+          "position": 6,
+          "group": "K"
+        }
+      ]
+    },
+    {
+      "text": "getting this stress that's been eating me recently off of this chest",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "chest",
+          "position": 12,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "and i rest again peacefully (peacefully)...",
+      "sentiment": "Love",
+      "rhymes": [
+        {
+          "word": "peacefully",
+          "position": 6,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "but at least have the decency in you",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 8,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "to leave me alone, when you freaks see me out",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 10,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "in the streets when i'm eating or feeding my daughter",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "daughter",
+          "position": 10,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "do not come and speak to me (speak to me)...",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "i don't know you and no,",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "no",
+          "position": 6,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "i don't owe you a motherfucking thing",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "thing",
+          "position": 7,
+          "group": "S"
+        }
+      ]
+    },
+    {
+      "text": "i'm not mr. n'sync, i'm not what your friends think",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "think",
+          "position": 10,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "i'm not mr. friendly, i can be a prick",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "prick",
+          "position": 9,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "if you tempt me my tank is on empty (is on empty)...",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "empty",
+          "position": 12,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "no patience is in me and if you offend me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 10,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "i'm lifting you 10 feet (lifting you 10 feet)... in the air",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "air",
+          "position": 12,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "i don't care who was there and who saw me just jaw you",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 13,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "go call you a lawyer, file you a lawsuit",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "lawsuit",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'll smile in the courtroom and buy you a wardrobe",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "wardrobe",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm tired of all you (of all you)...",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "you",
+          "position": 8,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "i don't mean to be mean, but that's all i can be it's just me",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 15,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "and i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "radio won't even play my jam",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "jam",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i don't know, it's just the way i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "sometimes i just feel like my father,",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "father",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i hate to be bothered",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "bothered",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "with all of this nonsense it's constant",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "constant",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and, \"oh, it's his lyrical content -",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "content",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "- the song 'guilty conscience' has gotten such rotten responses\"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "responses",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and all of this controversy circles me",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 7,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "and it seems like the media immediately",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "immediately",
+          "position": 7,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "points a finger at me (finger at me)...",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "me",
+          "position": 8,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "so i point one back at 'em, but not the index or pinkie",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "pinkie",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "or the ring or the thumb, it's the one you put up",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "when you don't give a fuck, when you won't just put up",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "with the bullshit they pull, 'cause they full of shit too",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "too",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "when a dude's getting bullied and shoots up his school",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "school",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and they blame it on marilyn (on marilyn)... and the heroin",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "heroin",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "where were the parents at? and look where it's at",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "at",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "middle america, now it's a tragedy",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "tragedy",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "now it's so sad to see, an upper class city",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "city",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "having this happening (this happening)...",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "happening",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "then attack eminem 'cause i rap this way (rap this way)...",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "way",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but i'm glad 'cause they feed me the fuel that i need for the fire",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "fire",
+          "position": 15,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "to burn and it's burning and i have returned",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "returned",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "radio won't even play my jam",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "jam",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i don't know it's just the way i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm so sick and tired of being admired",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "admired",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "that i wish that i would just die or get fired",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "fired",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and dropped from my label, let's stop with the fables",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "fables",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i'm not gonna be able to top on \"my name is... \"",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "is",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and pigeon-holed into some pop-py sensation",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "sensation",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "that got me rotation at rock'n'roll stations",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "stations",
+          "position": 7,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "and i just do not got the patience (got the patience)...",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "patience",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "to deal with these cocky caucasians who think",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "think",
+          "position": 8,
+          "group": "T"
+        }
+      ]
+    },
+    {
+      "text": "i'm some wigger who just tries to be black 'cause i talk",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "talk",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "with an accent, and grab on my balls, so they always keep asking",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "asking",
+          "position": 13,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "the same fucking questions (fucking questions)...",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "questions",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "what school did i go to, what hood i grew up in",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "in",
+          "position": 12,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "the why, the who what when, the where, and the how",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "how",
+          "position": 11,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'til i'm grabbing my hair and i'm tearing it out",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 10,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "'cause they driving me crazy (driving me crazy)... i can't take it",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 12,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "i'm racing, i'm pacing, i stand and i sit",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "sit",
+          "position": 9,
+          "group": "C"
+        }
+      ]
+    },
+    {
+      "text": "and i'm thankful for every fan that i get",
+      "sentiment": "Love",
+      "rhymes": [
+        {
+          "word": "get",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "but i can't take a shit, in the bathroom",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bathroom",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "without someone standing by it",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "it",
+          "position": 5,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "no, i won't sign your autograph",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "autograph",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "you can call me an asshole i'm glad",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "glad",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "radio won't even play my jam",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "jam",
+          "position": 6,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "'cause i am, whatever you say i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "if i wasn't, then why would i say i am?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 10,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "in the paper, the news everyday i am",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "i don't know, it's just the way i am",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "am",
+          "position": 9,
+          "group": "Z"
+        }
+      ]
+    }
+  ]
+}

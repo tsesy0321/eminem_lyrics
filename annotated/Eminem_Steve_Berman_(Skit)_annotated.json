@@ -1,0 +1,401 @@
+{
+  "filename": "Eminem_Steve_Berman_(Skit).txt",
+  "lyrics": [
+    {
+      "text": "aye!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "aye",
+          "position": 1,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "hey, em, what's up?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 4,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "steve berman, what's going on, man? how you doin'?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "doin",
+          "position": 9,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "good to see you again, what's up?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 7,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "em, could you come here and have a seat, please?",
+      "sentiment": "Pride",
+      "rhymes": [
+        {
+          "word": "please",
+          "position": 10,
+          "group": "D"
+        }
+      ]
+    },
+    {
+      "text": "umm, yeah, what's u-",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "u",
+          "position": 4,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "vanessa, shut the door",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "door",
+          "position": 4,
+          "group": "F"
+        }
+      ]
+    },
+    {
+      "text": "okay,",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "okay",
+          "position": 1,
+          "group": "E"
+        }
+      ]
+    },
+    {
+      "text": "so, what's up?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "up",
+          "position": 3,
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "text": "how's orders lookin' for the first week?",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "week",
+          "position": 7,
+          "group": "I"
+        }
+      ]
+    },
+    {
+      "text": "it would be better if you gave me nothing at all",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "all",
+          "position": 11,
+          "group": "J"
+        }
+      ]
+    },
+    {
+      "text": "wh-",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "wh",
+          "position": 1,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "this album is less than nothing",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "nothing",
+          "position": 6,
+          "group": "K"
+        }
+      ]
+    },
+    {
+      "text": "i can't sell this fucking record",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "record",
+          "position": 6,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "wha-",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "wha",
+          "position": 1,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "do you know what's happening to me out there?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "there",
+          "position": 9,
+          "group": "M"
+        }
+      ]
+    },
+    {
+      "text": "wh-wha-what's the problem?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "problem",
+          "position": 3,
+          "group": "N"
+        }
+      ]
+    },
+    {
+      "text": "violet brown told me to go fuck myself!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "myself",
+          "position": 8,
+          "group": "O"
+        }
+      ]
+    },
+    {
+      "text": "who's violet-",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "violet",
+          "position": 2,
+          "group": "P"
+        }
+      ]
+    },
+    {
+      "text": "tower records told me to shove this record up my ass!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "ass",
+          "position": 11,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "do you know what it feels like to be told to have a record",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "record",
+          "position": 14,
+          "group": "L"
+        }
+      ]
+    },
+    {
+      "text": "shoved up your ass?",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "ass",
+          "position": 4,
+          "group": "Q"
+        }
+      ]
+    },
+    {
+      "text": "but i-",
+      "sentiment": "Sadness",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 2,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "i'm gonna lose my fucking job over this",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "this",
+          "position": 8,
+          "group": "U"
+        }
+      ]
+    },
+    {
+      "text": "do you know why dre's record was so successful?",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "successful",
+          "position": 9,
+          "group": "V"
+        }
+      ]
+    },
+    {
+      "text": "he's rapping about big-screen tv's, blunts, 40's and bitches",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "bitches",
+          "position": 9,
+          "group": "W"
+        }
+      ]
+    },
+    {
+      "text": "you're rapping about homosexuals and vicodin",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "vicodin",
+          "position": 6,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "i mean...",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "mean",
+          "position": 2,
+          "group": "X"
+        }
+      ]
+    },
+    {
+      "text": "i can't sell this shit!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "shit",
+          "position": 5,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "what-",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "what",
+          "position": 1,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "either change the record or it's not comin' out!",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "out",
+          "position": 9,
+          "group": "Y"
+        }
+      ]
+    },
+    {
+      "text": "what? i-",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "i",
+          "position": 2,
+          "group": "A"
+        }
+      ]
+    },
+    {
+      "text": "now get the fuck out of my office!",
+      "sentiment": "Anger",
+      "rhymes": [
+        {
+          "word": "office",
+          "position": 8,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "what am i 'sposed-",
+      "sentiment": "Satire",
+      "rhymes": [
+        {
+          "word": "sposed",
+          "position": 4,
+          "group": ""
+        }
+      ]
+    },
+    {
+      "text": "now!",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "now",
+          "position": 1,
+          "group": "Z"
+        }
+      ]
+    },
+    {
+      "text": "alright, man-",
+      "sentiment": "Humour",
+      "rhymes": [
+        {
+          "word": "man",
+          "position": 2,
+          "group": "Z"
+        }
+      ]
+    }
+  ]
+}
